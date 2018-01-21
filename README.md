@@ -27,8 +27,8 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 ------------
 **Session 1:** 1/22/2018  
-**Lecture:** introduction, syllabus, history, github, terminal, regex
-**Lab:** [Link to session 1 repo](https://github.com/programming-for-bio/0-Syllabus).  
+**Lecture:** introduction, syllabus, history, github, terminal, regex  
+**Lab:** [Link to session 1 repo](https://github.com/programming-for-bio/0-Syllabus).   
 **Reading due:** None   
 **Assignment due:** None  
 **Code Review due:** None  
@@ -36,10 +36,10 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 -------------
 
 **Session 2:** 1/29/2018  
-**Lecture:** markdown, git, github.
+**Lecture:** markdown, git, github.  
 **Lab:** [Link to session 2 repo](...)    
 **Reading due:** [Essential github](...)     
-**Assignment due:** 1-bash-awk-sed-tools
+**Assignment due:** 1-bash-awk-sed-tools  
 **Code Review due:** None  
 
 -------------
