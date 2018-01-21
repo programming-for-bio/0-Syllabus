@@ -55,10 +55,22 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 
 **Session 4:** 2/12/2018  
-**Lecture:** introduction, syllabus, history, basic tools.  
-**Lab:** unix, installation, terminal.  
-**Reading due:** None   
-**Assignment due:** 3-
+**Lecture:** Python scripting  
+**Lab:** [Link to session 4 repo](...)  
+**Reading due:** [Python basics chapters 5-13](http://www.greenteapress.com/thinkpython2/html/index.html)  
+**Assignment due:** 3-applied-Python-tools  
 **Code Review due:** 2-applied-Python-basics  
+
+--------------
+
+
+**Session 5:** 2/19/2018  
+**Lecture:** Python packaging    
+**Lab:** [Link to session 4 repo](...)  
+**Reading due:** [Python basics chapters 5-13](http://www.greenteapress.com/thinkpython2/html/index.html)  
+**Assignment due:** 3-applied-Python-tools  
+**Code Review due:** 2-applied-Python-basics  
+
+---------------
 
 
