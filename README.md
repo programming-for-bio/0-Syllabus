@@ -15,7 +15,7 @@ The course meets on Mondays from 2:10-4pm. Each meeting will be a mix of lecture
 There will be code-based assignments for nearly every class period. These will require completing assignments outside of class in addition to performing "code reviews" of submissions by classmates based on assigned criteria. For example, check that their code works, that it follows proper style, and describe how the implementation differs from your own code. Both code and code reviews will be graded. A course project will be developed by each student and defended through a formal proposal process and later presented as a final project. Projects will be developed and published as open source code on github and evaluated on the basis of documentation, task-completion, and examples. 
 
 #### Basis for grading:  
-Grades will be composed of 18 assignments (35%) and code reviews (20%), a project proposal (5%), project presentation (5%), and project grade (20%), as well as on class participation (15%). 
+Grades will be composed of 13 assignments (35%) and code reviews (20%), a project proposal (5%), project presentation (5%), and project grade (20%), as well as on class participation (15%). 
 
 #### Statement on Academic Integrity:  
 Academic dishonesty is a serious offense and will not be tolerated in the class. Students are expected to reference sources appropriately in any work, including references to open source code found on-line, forum discussions, or third party software tools used in assignments or projects. Violation of the rules of academic integrity (e.g., plagiarism) from Columbia College or the Graduate School of the Arts and Sciences, will result in automatic failure of the course. Rules and consequences are outlined in Columbia College's Faculty Statement on Academic Integrity: [http://www.college.columbia.edu/faculty/resourcesforinstructors/academicintegrity/statement](http://www.college.columbia.edu/faculty/resourcesforinstructors/academicintegrity/statement). 
@@ -27,7 +27,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 ------------
 **Session 1:** 1/22/2018  
-**Lecture:** introduction, syllabus, history, github, terminal.  
+**Lecture:** introduction, syllabus, history, github, terminal, regex
 **Lab:** [Link to session 1 repo](https://github.com/programming-for-bio/0-Syllabus).  
 **Reading due:** None   
 **Assignment due:** None  
@@ -36,20 +36,29 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 -------------
 
 **Session 2:** 1/29/2018  
-**Lecture:** git, github, markdown, 
-**Lab:** terminal.  
-**Reading due:** None   
-**Assignment due:** None  
+**Lecture:** markdown, git, github.
+**Lab:** [Link to session 2 repo](...)    
+**Reading due:** [Essential github](...)     
+**Assignment due:** 1-bash-awk-sed-tools
 **Code Review due:** None  
 
 -------------
 
-**Session 1:** 1/22/2018  
+**Session 3:** 2/5/2018  
+**Lecture:** Python basics
+**Lab:** unix, installation, terminal.  
+**Reading due:** [Python basics chapters 1-4](http://www.greenteapress.com/thinkpython2/html/index.html)  
+**Assignment due:** 2-applied-Python-basics  
+**Code Review due:** 1-bash-awk-sed-tools  
+
+-------------
+
+
+**Session 4:** 2/12/2018  
 **Lecture:** introduction, syllabus, history, basic tools.  
 **Lab:** unix, installation, terminal.  
 **Reading due:** None   
-**Assignment due:** None  
-**Code Review due:** None  
+**Assignment due:** 3-
+**Code Review due:** 2-applied-Python-basics  
 
--------------
 
