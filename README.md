@@ -37,8 +37,8 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 2:** 1/29/2018  
 **Lecture:** git, github, ssh, installation, source, apt, brew, conda  
-**Lab:** [Link to session 2 repo](https://github.com/programming-for-bio/1-Shell-Basics)    
-**Reading due:** [Introduction to github](...)     
+**Lab:** [Link to session 2 repo]  
+**Reading due:** None     
 **Assignment due:** 1-Shell-Basics  
 **Code Review due:** None  
 
@@ -46,7 +46,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 3:** 2/5/2018  
 **Lecture:** Python basics, conda, ipython, jupyter  
-**Lab:** Python basics and tools  [Link to session 3 repo]()  
+**Lab:** Python basics and tools [Link to session 3 repo]  
 **Reading due:** [Python basics chapters 1-4](http://www.greenteapress.com/thinkpython2/html/index.html)  
 **Assignment due:** 2-applied-Python-basics  
 **Code Review due:** 1-Shell-Basics  
