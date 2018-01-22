@@ -55,7 +55,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 4:** 2/12/2018  
 **Lecture:** Python objects and functions; more on hashing and dicts  
-**Lab:** Python objects [Link to session 4 repo]()  
+**Lab:** Python objects [Link to session 4 repo]  
 **Reading due:** [Python basics chapters 5-13](http://www.greenteapress.com/thinkpython2/html/index.html)  
 **Assignment due:** 3-applied-Python-objects    
 **Code Review due:** 2-applied-Python-basics  
@@ -65,7 +65,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 5:** 2/19/2018  
 **Lecture:** Classes, Writing with Style, APIs, CLIs, __init__  
-**Lab:** [Link to session 5 repo](...)  
+**Lab:** [Link to session 5 repo]  
 **Reading due:** [Python basics chapters 14-18](http://www.greenteapress.com/thinkpython2/html/index.html)  
 **Assignment due:** 4-applied-Python-classy   
 **Code Review due:** 3-applied-Python-objects   
@@ -75,8 +75,8 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 6:** 2/26/2018  
 **Lecture:** Scientific Python, numpy, scipy, pandas.  
-**Lab:** [Link to session 6 repo](...)  
-**Reading due:** [Numpy user guide]() & ...
+**Lab:** [Link to session 6 repo]  
+**Reading due:** [Numpy user guide] & ...  
 **Assignment due:** 5-applied-Python-scientific  
 **Code Review due:** 4-applied-Python-classy  
 
@@ -84,9 +84,9 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 
 **Session 7:** 3/5/2018  
-**Lecture:** Python as glue; subprocess, speed, JIT, testing, visualization 
-**Lab:** [Link to session 7 repo](...)  
-**Reading due:** [subprocess guide]() & ...
+**Lecture:** Python as glue; subprocess, speed, JIT, testing, visualization  
+**Lab:** [Link to session 7 repo]   
+**Reading due:** [subprocess guide] & ...  
 **Assignment due:** 6-applied-Python-speed  
 **Code Review due:** 5-applied-Python-scientific    
 
@@ -94,18 +94,19 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 
 **Session 8:** 3/12/2018  
-**Lecture:** Big Data: HDF5, sqlite3, dask, streaming.
-**Lab:** [Link to session 8 repo](...)  
-**Reading due:** [dask & HDF5 guide]() & ...
+**Lecture:** Big Data: HDF5, sqlite3, dask, streaming.  
+**Lab:** [Link to session 8 repo]    
+**Reading due:** [dask & HDF5 guide] & ...  
 **Assignment due:** 7-applied-Python-bigdata  
 **Code Review due:** 6-applied-Python-speed      
+**PROJECT PROPOSALS**
 
 ---------------
 
 **Session 9:** 3/19/2018  
 **Lecture:** web-scraping, HTML, XML, requests  
-**Lab:** [Link to session 9 repo](...)  
-**Reading due:** [requests guide]() & ...
+**Lab:** [Link to session 9 repo]    
+**Reading due:** [requests guide] & ...  
 **Assignment due:** 8-applied-Python-requests  
 **Code Review due:** 7-applied-Python-bigdata  
 
@@ -113,8 +114,8 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 10:** 3/26/2018  
 **Lecture:** HPC, parallel, threading, ipyparallel, distributed  
-**Lab:** [Link to session 10 repo](...)  
-**Reading due:** [HPC guide]() & ...
+**Lab:** [Link to session 10 repo]   
+**Reading due:** [HPC guide] & ...  
 **Assignment due:** 9-applied-Python-parallel  
 **Code Review due:** 8-applied-Python-requests  
 
@@ -123,8 +124,8 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 11:** 4/2/2018  
 **Lecture:** genomics, sequences as arrays or objects, dtypes  
-**Lab:** [Link to session 11 repo](...)  
-**Reading due:** [genomics guide]() & ...
+**Lab:** [Link to session 11 repo]  
+**Reading due:** [genomics guide] & ...  
 **Assignment due:** 10-applied-Python-genomics  
 **Code Review due:** 9-applied-Python-parallel  
 
@@ -132,8 +133,8 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 12:** 4/9/2018  
 **Lecture:** statistical analysis, likelihood, Bayesian  
-**Lab:** [Link to session 12 repo](...)  
-**Reading due:** [statistics guide]() & ...
+**Lab:** [Link to session 12 repo]   
+**Reading due:** [statistics guide] & ...  
 **Assignment due:** 11-applied-Python-genomics    
 **Code Review due:** 10-applied-Python-statistics   
 
@@ -141,9 +142,9 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 13:** 4/16/2018  
 **Lecture:** machine-learning  
-**Lab:** [Link to session 13 repo](...)  
-**Reading due:** [ML guide]() & ...
-**Assignment due:** 12-applied-Python-machine-learning
+**Lab:** [Link to session 13 repo]    
+**Reading due:** [ML guide] & ...  
+**Assignment due:** 12-applied-Python-machine-learning   
 **Code Review due:** 11-applied-Python-statistics  
 
 ---------------
@@ -152,7 +153,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 **Lecture:** Project Presentations  
 **Lab:** None  
 **Reading due:** None  
-**Assignment due:** 13-applied-Python-machine-learning
+**Assignment due:** 13-applied-Python-machine-learning  
 **Code Review due:** 12-applied-Python-statistics  
 
 ---------------
@@ -161,7 +162,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 **Lecture:** Project Presentations  
 **Lab:** None  
 **Reading due:** None  
-**Assignment due:** None
+**Assignment due:** None  
 **Code Review due:** 13-applied-Python-machine-learning  
 
 ---------------
