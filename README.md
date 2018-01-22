@@ -27,8 +27,8 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 ------------
 **Session 1:** 1/22/2018  
-**Lecture:** introduction, syllabus, history, github, terminal, regex  
-**Lab:** [Link to session 1 repo](https://github.com/programming-for-bio/0-Syllabus).   
+**Lecture:** introduction, syllabus, unix, terminal, github  
+**Lab:** [Link to session 1 repo](https://github.com/programming-for-bio/1-Shell-Basics).   
 **Reading due:** None   
 **Assignment due:** None  
 **Code Review due:** None  
@@ -37,7 +37,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 2:** 1/29/2018  
 **Lecture:** markdown, git, github.  
-**Lab:** [Link to session 2 repo](...)    
+**Lab:** [Link to session 2 repo](https://github.com/programming-for-bio/1-Shell-Basics)    
 **Reading due:** [Essential github](...)     
 **Assignment due:** 1-bash-awk-sed-tools  
 **Code Review due:** None  
@@ -45,7 +45,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 -------------
 
 **Session 3:** 2/5/2018  
-**Lecture:** Python basics
+**Lecture:** Python basics  
 **Lab:** unix, installation, terminal.  
 **Reading due:** [Python basics chapters 1-4](http://www.greenteapress.com/thinkpython2/html/index.html)  
 **Assignment due:** 2-applied-Python-basics  
@@ -55,7 +55,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 
 **Session 4:** 2/12/2018  
-**Lecture:** Python scripting  
+**Lecture:** Python data structures
 **Lab:** [Link to session 4 repo](...)  
 **Reading due:** [Python basics chapters 5-13](http://www.greenteapress.com/thinkpython2/html/index.html)  
 **Assignment due:** 3-applied-Python-tools  
@@ -65,7 +65,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 
 **Session 5:** 2/19/2018  
-**Lecture:** Python packaging    
+**Lecture:** Becoming a Pythonista    
 **Lab:** [Link to session 4 repo](...)  
 **Reading due:** [Python basics chapters 5-13](http://www.greenteapress.com/thinkpython2/html/index.html)  
 **Assignment due:** 3-applied-Python-tools  
