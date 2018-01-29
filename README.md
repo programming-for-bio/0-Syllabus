@@ -5,6 +5,10 @@ E3B Department Columbia University
 Instructor: Dr. Deren Eaton (de2356@columbia.edu)  
 Teaching Assistant: Patrick McKenzie (p.mckenzie@columbia.edu)  
 
+#### Office Hours:
+Professor Eaton: Fridays, 10-12am in 1007 Schermerhorn Ext.  
+Patrick McKenzie: ...  
+
 #### Bulletin:  
 Programming and Data Science for Biologists (PDSB) will introduce students to fundamental computational skills and concepts for working with large biological data sets. This will include learning core principles of at least one common programming language (Python), in addition to learning many tools for collaboration and version control (git, github), reproducible science (jupyter, rstudio), accessing large databases (HDF5, dask) and manipulating and visualizing data. Programmatic approaches are commonly used in biology but few biologists receive formal training in applying programming languages to these tasks. This course offers a deeper introduction to computational techniques and algorithms commonly applied to biological datasets, with particular attention to genomic analyses. 
 
@@ -28,7 +32,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 ------------
 **Session 1:** 1/22/2018  
 **Lecture:** introduction, syllabus, unix, bash, markdown, github  
-**Assigment:** [Link to session 1 repo](https://github.com/programming-for-bio/1-Shell-Basics).   
+**Assigned tasks:** [Link to session 1 repo](https://github.com/programming-for-bio/1-Shell-Basics).   
 **Reading due:** None   
 **Assignment due:** None  
 **Code Review due:** None  
@@ -37,7 +41,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 2:** 1/29/2018  
 **Lecture:** git, github, ssh, installation, source, apt, brew, conda  
-**Assignment:** [Link to session 2 repo]  
+**Assigned tasks:** [Link to session 2 repo](https://github.com/programming-for-bio/2-git-and-more).   
 **Reading due:** Chapter 1-2: [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)     
 **Assignment due:** [Link to session 1 repo](https://github.com/programming-for-bio/1-Shell-Basics).   
 **Code Review due:** None  
@@ -46,16 +50,16 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 3:** 2/5/2018  
 **Lecture:** Python basics, conda, ipython, jupyter  
-**Assignment:** Python basics and tools [Link to session 3 repo]  
+**Assigned tasks:** Python basics and tools [Link to session 3 repo]  
 **Reading due:** [Python basics chapters 1-4](http://www.greenteapress.com/thinkpython2/html/index.html)  
-**Assignment due:** 2-applied-Python-basics  
-**Code Review due:** 1-Shell-Basics  
+**Assignment due:** [Link to session 2 repo](https://github.com/programming-for-bio/2-git-and-more).   
+**Code Review due:** None  
 
 -------------
 
 **Session 4:** 2/12/2018  
 **Lecture:** Python objects and functions; more on hashing and dicts  
-**Assignment:** Python objects [Link to session 4 repo]  
+**Assigned tasks:** Python objects [Link to session 4 repo]  
 **Reading due:** [Python basics chapters 5-13](http://www.greenteapress.com/thinkpython2/html/index.html)  
 **Assignment due:** 3-applied-Python-objects    
 **Code Review due:** 2-applied-Python-basics  
@@ -65,7 +69,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 5:** 2/19/2018  
 **Lecture:** Classes, Writing with Style, APIs, CLIs, __init__  
-**Assignment:** [Link to session 5 repo]  
+**Assigned tasks:** [Link to session 5 repo]  
 **Reading due:** [Python basics chapters 14-18](http://www.greenteapress.com/thinkpython2/html/index.html)  
 **Assignment due:** 4-applied-Python-classy   
 **Code Review due:** 3-applied-Python-objects   
@@ -75,7 +79,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 6:** 2/26/2018  
 **Lecture:** Scientific Python, numpy, scipy, pandas.  
-**Assignment:** [Link to session 6 repo]  
+**Assigned tasks:** [Link to session 6 repo]  
 **Reading due:** [Numpy user guide] & ...  
 **Assignment due:** 5-applied-Python-scientific  
 **Code Review due:** 4-applied-Python-classy  
@@ -85,7 +89,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 7:** 3/5/2018  
 **Lecture:** Python as glue; subprocess, speed, JIT, testing, visualization  
-**Assignment:** [Link to session 7 repo]   
+**Assigned tasks:** [Link to session 7 repo]   
 **Reading due:** [subprocess guide] & ...  
 **Assignment due:** 6-applied-Python-speed  
 **Code Review due:** 5-applied-Python-scientific    
@@ -95,7 +99,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 8:** 3/12/2018  
 **Lecture:** Big Data: HDF5, sqlite3, dask, streaming.  
-**Assignment:** [Link to session 8 repo]    
+**Assigned tasks:** [Link to session 8 repo]    
 **Reading due:** [dask & HDF5 guide] & ...  
 **Assignment due:** 7-applied-Python-bigdata  
 **Code Review due:** 6-applied-Python-speed      
@@ -105,7 +109,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 9:** 3/19/2018  
 **Lecture:** web-scraping, HTML, XML, requests  
-**Assignment:** [Link to session 9 repo]    
+**Assigned tasks:** [Link to session 9 repo]    
 **Reading due:** [requests guide] & ...  
 **Assignment due:** 8-applied-Python-requests  
 **Code Review due:** 7-applied-Python-bigdata  
@@ -114,7 +118,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 10:** 3/26/2018  
 **Lecture:** HPC, parallel, threading, ipyparallel, distributed  
-**Assignment:** [Link to session 10 repo]   
+**Assigned tasks:** [Link to session 10 repo]   
 **Reading due:** [HPC guide] & ...  
 **Assignment due:** 9-applied-Python-parallel  
 **Code Review due:** 8-applied-Python-requests  
@@ -124,7 +128,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 11:** 4/2/2018  
 **Lecture:** genomics, sequences as arrays or objects, dtypes  
-**Assignment:** [Link to session 11 repo]  
+**Assigned tasks:** [Link to session 11 repo]  
 **Reading due:** [genomics guide] & ...  
 **Assignment due:** 10-applied-Python-genomics  
 **Code Review due:** 9-applied-Python-parallel  
@@ -133,7 +137,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 12:** 4/9/2018  
 **Lecture:** statistical analysis, likelihood, Bayesian  
-**Assignment:** [Link to session 12 repo]   
+**Assigned tasks:** [Link to session 12 repo]   
 **Reading due:** [statistics guide] & ...  
 **Assignment due:** 11-applied-Python-genomics    
 **Code Review due:** 10-applied-Python-statistics   
@@ -142,7 +146,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 13:** 4/16/2018  
 **Lecture:** machine-learning  
-**Assignment:** [Link to session 13 repo]    
+**Assigned tasks:** [Link to session 13 repo]    
 **Reading due:** [ML guide] & ...  
 **Assignment due:** 12-applied-Python-machine-learning   
 **Code Review due:** 11-applied-Python-statistics  
@@ -151,7 +155,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 14:** 4/23/2018  
 **Lecture:** Project Presentations  
-**Assignment:** None  
+**Assigned tasks:** None  
 **Reading due:** None  
 **Assignment due:** 13-applied-Python-machine-learning  
 **Code Review due:** 12-applied-Python-statistics  
@@ -160,7 +164,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 15:** 4/30/2018  
 **Lecture:** Project Presentations  
-**Assignment:** None  
+**Assigned tasks:** None  
 **Reading due:** None  
 **Assignment due:** None  
 **Code Review due:** 13-applied-Python-machine-learning  
