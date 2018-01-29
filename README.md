@@ -7,7 +7,7 @@ Teaching Assistant: Patrick McKenzie (p.mckenzie@columbia.edu)
 
 #### Office Hours:
 Professor Eaton: Fridays, 10-12am in 1007 Schermerhorn Ext.  
-Patrick McKenzie: ...  
+Patrick McKenzie: Tuesdays 2-4pm in student room, Schermerhorn Ext.
 
 #### Bulletin:  
 Programming and Data Science for Biologists (PDSB) will introduce students to fundamental computational skills and concepts for working with large biological data sets. This will include learning core principles of at least one common programming language (Python), in addition to learning many tools for collaboration and version control (git, github), reproducible science (jupyter, rstudio), accessing large databases (HDF5, dask) and manipulating and visualizing data. Programmatic approaches are commonly used in biology but few biologists receive formal training in applying programming languages to these tasks. This course offers a deeper introduction to computational techniques and algorithms commonly applied to biological datasets, with particular attention to genomic analyses. 
