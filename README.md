@@ -6,7 +6,7 @@ Instructor: Dr. Deren Eaton (de2356@columbia.edu)
 Teaching Assistant: Patrick McKenzie (p.mckenzie@columbia.edu)  
 
 #### Office Hours:
-Professor Eaton: Fridays, 10-12am in 1007 Schermerhorn Ext.  
+Professor Eaton: Fridays, 10am-12pm in 1007 Schermerhorn Ext.  
 Patrick McKenzie: Tuesdays 2-4pm in student room, Schermerhorn Ext.
 
 #### Bulletin:  
