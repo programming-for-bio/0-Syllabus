@@ -40,7 +40,7 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 -------------
 
 **Session 2:** 1/29/2018  
-**Lecture:** git, github, ssh, installation, source, apt, brew, conda  
+**Lecture:** git, GitHub, installation, conda  
 **Assigned tasks:** [Link to session 2 repo](https://github.com/programming-for-bio/2-git-and-more).   
 **Reading due:** Chapter 1-2: [https://git-scm.com/book/en/v2](https://git-scm.com/book/en/v2)     
 **Assignment due:** [Link to session 1 repo](https://github.com/programming-for-bio/1-Shell-Basics).   
@@ -49,30 +49,30 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 -------------
 
 **Session 3:** 2/5/2018  
-**Lecture:** Python basics, conda, ipython, jupyter  
-**Assigned tasks:** Python basics and tools [Link to session 3 repo]  
-**Reading due:** [Python basics chapters 1-4](http://www.greenteapress.com/thinkpython2/html/index.html)  
+**Lecture:** git, GitHub, conda, jupyter, Python strings, lists.  
+**Assigned tasks:** [Link to session 3 repo](https://github.com/programming-for-bio/3-Python-basics).   
+**Reading due:** [Python basics chapters 1-4](http://www.greenteapress.com/thinkpython2/html/index.html).  
 **Assignment due:** [Link to session 2 repo](https://github.com/programming-for-bio/2-git-and-more).   
-**Code Review due:** None  
+**Code Review due:** None
 
 -------------
 
 **Session 4:** 2/12/2018  
-**Lecture:** Python objects and functions; more on hashing and dicts  
-**Assigned tasks:** Python objects [Link to session 4 repo]  
+**Lecture:** Python dicts, hashing, mapping, aligning, saving as '.py', importing  
+**Assigned tasks:** [Link to session 4 repo](https://github.com/programming-for-bio/4-Python-advanced)    
 **Reading due:** [Python basics chapters 5-13](http://www.greenteapress.com/thinkpython2/html/index.html)  
-**Assignment due:** 3-applied-Python-objects    
-**Code Review due:** 2-applied-Python-basics  
+**Assignment due:** [3-Python-Basics](https://github.com/programming-for-bio/3-Python-basics).   
+**Code Review due:** [3-Python-Basics](https://github.com/programming-for-bio/3-Python-basics/tree/master/Code-review).   
 
 -------------
 
 
 **Session 5:** 2/19/2018  
-**Lecture:** Classes, Writing with Style, APIs, CLIs, __init__  
-**Assigned tasks:** [Link to session 5 repo]  
-**Reading due:** [Python basics chapters 14-18](http://www.greenteapress.com/thinkpython2/html/index.html)  
-**Assignment due:** 4-applied-Python-classy   
-**Code Review due:** 3-applied-Python-objects   
+**Lecture:** Files, Classes, Writing with Style, Text Editors, APIs, CLIs, __init__  
+**Assigned tasks:** [Link to session 5 repo](...)  
+**Reading due:** [Python basics chapters 14-18](http://www.greenteapress.com/thinkpython2/html/index.html) and [*Pythonista* style guide](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html).  
+**Assignment due:** [4-Python-advanced](https://github.com/programming-for-bio/4-Python-advanced)
+**Code Review due:** [4-Python-advanced](https://github.com/programming-for-bio/4-Python-advanced/tree/master/Code-review).   
 
 --------------
 
