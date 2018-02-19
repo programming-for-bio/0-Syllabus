@@ -68,8 +68,8 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 
 **Session 5:** 2/19/2018  
-**Lecture:** Scientific Python, numpy, scipy, pandas.  
-**Assigned tasks:** [5-Scientific-Python/](...)  
+**Lecture:** Packaging, API, CLI, argparse, sublimetext.  
+**Assigned tasks:** [5-packaging/](https://github.com/programming-for-bio/5-packaging)   
 **Reading due:** [Python basics chapters 14-18](http://www.greenteapress.com/thinkpython2/html/index.html) and [*Pythonista* style guide](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html).  
 **Assignment due:** [4-Python-advanced/Assignment](https://github.com/programming-for-bio/4-Python-advanced)  
 **Code Review due:** [4-Python-advanced/Code-Review](https://github.com/programming-for-bio/4-Python-advanced/tree/master/Code-review).   
@@ -78,11 +78,11 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 
 **Session 6:** 2/26/2018  
-**Lecture:** remote SSH, computing clusters, linux, SLURM, phylogenetics.  
+**Lecture:** Numpy, Pandas, speed.  
 **Assigned tasks:** [6-Remote-ssh/](...)  
 **Reading due:** [Chapters 2 & 3 Numpy/Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)  
-**Assignment due:** 5-Scientific-Python/Assignment/  
-**Code Review due:** 5-Scientific-Python/Code-Review/  
+**Assignment due:** 5-packaging/Assignment/  
+**Code Review due:** 5-packaging/Code-Review/  
 
 ---------------
 
@@ -119,7 +119,6 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 **Session 10:** 3/26/2018  
 **Lecture:** HPC, parallel, threading, ipyparallel, distributed  
 **Assigned tasks:** [Link to session 10 repo]   
-**Reading due:** [HPC guide] & ...  
 **Assignment due:** 9-applied-Python-parallel  
 **Code Review due:** 8-applied-Python-requests  
 
