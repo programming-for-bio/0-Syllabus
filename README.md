@@ -68,10 +68,10 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 
 **Session 5:** 2/19/2018  
-**Lecture:** Files, Classes, Writing with Style, Text Editors, APIs, CLIs, __init__  
-**Assigned tasks:** [Link to session 5 repo](...)  
+**Lecture:** Files, Classes, Writing with Style, Text Editors, APIs, CLIs, `__init__`  
+**Assigned tasks:** [Link to session 5 repo](https://github.com/programming-for-bio/5-Packaging)      
 **Reading due:** [Python basics chapters 14-18](http://www.greenteapress.com/thinkpython2/html/index.html) and [*Pythonista* style guide](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html).  
-**Assignment due:** [4-Python-advanced](https://github.com/programming-for-bio/4-Python-advanced)
+**Assignment due:** [4-Python-advanced](https://github.com/programming-for-bio/4-Python-advanced)  
 **Code Review due:** [4-Python-advanced](https://github.com/programming-for-bio/4-Python-advanced/tree/master/Code-review).   
 
 --------------
@@ -79,31 +79,26 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 
 **Session 6:** 2/26/2018  
 **Lecture:** Scientific Python, numpy, scipy, pandas.  
-**Assigned tasks:** [Link to session 6 repo]  
-**Reading due:** [Numpy user guide] & ...  
-**Assignment due:** 5-applied-Python-scientific  
-**Code Review due:** 4-applied-Python-classy  
+**Assigned tasks:** [Link to session 6 repo](https://github.com/programming-for-bio/6-scientific-python)  
+**Reading due:** [Numpy & Pandas user guide](https://jakevdp.github.io/PythonDataScienceHandbook/)  
+**Assignment due:** 5-Python-Packaging    
+**Code Review due:** 5-Python-Packaging    
 
 ---------------
 
 
 **Session 7:** 3/5/2018  
-**Lecture:** Python as glue; subprocess, speed, JIT, testing, visualization  
-**Assigned tasks:** [Link to session 7 repo]   
-**Reading due:** [subprocess guide] & ...  
-**Assignment due:** 6-applied-Python-speed  
-**Code Review due:** 5-applied-Python-scientific    
+**Lecture:** Python as glue; subprocess, jupyter-tunneling, SSH  
+**Assigned tasks:** [Link to session 7 repo](https://github.com/programming-for-bio/6-scientific-python)   
+**Reading due:** None  
+**Assignment due:** 6-scientific-python  
+**Code Review due:** 6-scientific-python (revised)   
 
 ---------------
 
-
-**Session 8:** 3/12/2018  
-**Lecture:** Big Data: HDF5, sqlite3, dask, streaming.  
-**Assigned tasks:** [Link to session 8 repo]    
-**Reading due:** [dask & HDF5 guide] & ...  
-**Assignment due:** 7-applied-Python-bigdata  
-**Code Review due:** 6-applied-Python-speed      
-**PROJECT PROPOSALS**
+SPRING BREAK
+[see project proposal guide here](https://github.com/programming-for-bio/project-proposal-guide) ... coming soon   
+**PROJECT PROPOSALS DUE: 3/19/2018**
 
 ---------------
 
