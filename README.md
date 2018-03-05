@@ -58,21 +58,21 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 -------------
 
 **Session 4:** 2/12/2018  
-**Lecture:** Python dicts, hashing, mapping, aligning, saving as '.py', importing  
+**Lecture:** Python dicts, hashing, mapping, '.py' files, importing  
 **Assigned tasks:** [Link to session 4 repo](https://github.com/programming-for-bio/4-Python-advanced)    
 **Reading due:** [Python basics chapters 5-13](http://www.greenteapress.com/thinkpython2/html/index.html)  
-**Assignment due:** [3-Python-Basics](https://github.com/programming-for-bio/3-Python-basics).   
+**Assignment due:** [3-Python-Basics](https://github.com/programming-for-bio/3-Python-basics).  
 **Code Review due:** [3-Python-Basics](https://github.com/programming-for-bio/3-Python-basics/tree/master/Code-review).   
 
 -------------
 
 
 **Session 5:** 2/19/2018  
-**Lecture:** Files, Classes, Writing with Style, Text Editors, APIs, CLIs, `__init__`  
-**Assigned tasks:** [Link to session 5 repo](https://github.com/programming-for-bio/5-Packaging)      
+**Lecture:** Packaging, API, CLI, argparse, sublimetext.  
+**Assigned tasks:** [5-packaging/](https://github.com/programming-for-bio/5-packaging)   
 **Reading due:** [Python basics chapters 14-18](http://www.greenteapress.com/thinkpython2/html/index.html) and [*Pythonista* style guide](http://python.net/~goodger/projects/pycon/2007/idiomatic/handout.html).  
-**Assignment due:** [4-Python-advanced](https://github.com/programming-for-bio/4-Python-advanced)  
-**Code Review due:** [4-Python-advanced](https://github.com/programming-for-bio/4-Python-advanced/tree/master/Code-review).   
+**Assignment due:** [4-Python-advanced/Assignment](https://github.com/programming-for-bio/4-Python-advanced)  
+**Code Review due:** [4-Python-advanced/Code-Review](https://github.com/programming-for-bio/4-Python-advanced/tree/master/Code-review).   
 
 --------------
 
@@ -114,7 +114,6 @@ SPRING BREAK
 **Session 10:** 3/26/2018  
 **Lecture:** HPC, parallel, threading, ipyparallel, distributed  
 **Assigned tasks:** [Link to session 10 repo]   
-**Reading due:** [HPC guide] & ...  
 **Assignment due:** 9-applied-Python-parallel  
 **Code Review due:** 8-applied-Python-requests  
 
