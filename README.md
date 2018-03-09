@@ -97,8 +97,8 @@ Academic dishonesty is a serious offense and will not be tolerated in the class.
 ---------------
 
 SPRING BREAK
-[see project proposal guide here](https://github.com/programming-for-bio/project-proposal-guide) ... coming soon   
-**PROJECT PROPOSALS DUE: 3/19/2018**
+[see project proposal guide here](https://github.com/programming-for-bio/project-proposal-guide)  
+**PROJECT PROPOSALS DUE: 3/21/2018**
 
 ---------------
 
