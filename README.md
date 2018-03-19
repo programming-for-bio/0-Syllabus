@@ -102,25 +102,26 @@ SPRING BREAK
 
 ---------------
 
-**Session 9:** 3/19/2018  
-**Lecture:** web-scraping, HTML, XML, requests  
-**Assigned tasks:** [Link to session 9 repo]    
-**Reading due:** [requests guide] & ...  
-**Assignment due:** 8-applied-Python-requests  
-**Code Review due:** 7-applied-Python-bigdata  
+**Session 8:** 3/19/2018  
+**Lecture:** web-scraping, HTML, requests, REST  
+**Assigned tasks:** [Link to session 8 repo](https://github.com/programming-for-bio/8-python-web)     
+**Reading due:** No reading due   
+**Assignment due:** Project proposals due 3/21  
+**Code Review due:** None  
 
 ---------------
 
-**Session 10:** 3/26/2018  
-**Lecture:** HPC, parallel, threading, ipyparallel, distributed  
-**Assigned tasks:** [Link to session 10 repo]   
-**Assignment due:** 9-applied-Python-parallel  
-**Code Review due:** 8-applied-Python-requests  
+**Session 9:** 3/26/2018  
+**Lecture:** Statistical analysis, machine learning, regression  
+**Reading due:** Chapters 4 & 5 of [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
+**Assigned tasks:** Notebooks 9.1-9.2  
+**Assignment due:** 'Records' repository from noteook 8.2 due 3/23  
+**Code Review due:** Fixed up 'Records' repository by 3/26  
 
 
 ---------------
 
-**Session 11:** 4/2/2018  
+**Session 10:** 4/2/2018  
 **Lecture:** genomics, sequences as arrays or objects, dtypes  
 **Assigned tasks:** [Link to session 11 repo]  
 **Reading due:** [genomics guide] & ...  
@@ -129,7 +130,7 @@ SPRING BREAK
 
 ---------------
 
-**Session 12:** 4/9/2018  
+**Session 11:** 4/9/2018  
 **Lecture:** statistical analysis, likelihood, Bayesian  
 **Assigned tasks:** [Link to session 12 repo]   
 **Reading due:** [statistics guide] & ...  
@@ -138,7 +139,7 @@ SPRING BREAK
 
 ---------------
 
-**Session 13:** 4/16/2018  
+**Session 12:** 4/16/2018  
 **Lecture:** machine-learning  
 **Assigned tasks:** [Link to session 13 repo]    
 **Reading due:** [ML guide] & ...  
@@ -147,7 +148,7 @@ SPRING BREAK
 
 ---------------
 
-**Session 14:** 4/23/2018  
+**Session 13:** 4/23/2018  
 **Lecture:** Project Presentations  
 **Assigned tasks:** None  
 **Reading due:** None  
@@ -156,7 +157,7 @@ SPRING BREAK
 
 ---------------
 
-**Session 15:** 4/30/2018  
+**Session 14:** 4/30/2018  
 **Lecture:** Project Presentations  
 **Assigned tasks:** None  
 **Reading due:** None  
