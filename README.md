@@ -112,7 +112,7 @@ SPRING BREAK
 ---------------
 
 **Session 9:** 3/26/2018  
-**Lecture:** Statistical analysis, machine learning, regression  
+**Lecture:** Analysis I: intro to machine learning
 **Reading due:** Chapters 4 & 5 of [Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)  
 **Assigned tasks:** Notebooks 9.1-9.2  
 **Assignment due:** 'Records' repository from noteook 8.2 due 3/23  
@@ -122,11 +122,11 @@ SPRING BREAK
 ---------------
 
 **Session 10:** 4/2/2018  
-**Lecture:** genomics, sequences as arrays or objects, dtypes  
-**Assigned tasks:** [Link to session 11 repo]  
-**Reading due:** [genomics guide] & ...  
-**Assignment due:** 10-applied-Python-genomics  
-**Code Review due:** 9-applied-Python-parallel  
+**Lecture:** Analysis II: intro to maximum likelihood and Bayesian statistics  
+**Assigned tasks:** Notebooks 10.1-10.3  
+**Reading due:** [gentle intro to Bayesian stats](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/); [Getting started page of pymc3 tutorial](http://docs.pymc.io/notebooks/getting_started).  
+**Assignment due:** machine learning applied to `records` dataframes.   
+**Code Review due:** None.   
 
 ---------------
 
