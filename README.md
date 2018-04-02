@@ -123,7 +123,7 @@ SPRING BREAK
 
 **Session 10:** 4/2/2018  
 **Lecture:** Analysis II: intro to maximum likelihood and Bayesian statistics  
-**Assigned tasks:** Notebooks 10.1-10.3  
+**Assigned tasks:** Notebooks 10.1-10.6    
 **Reading due:** [gentle intro to Bayesian stats](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/); [Getting started page of pymc3 tutorial](http://docs.pymc.io/notebooks/getting_started).  
 **Assignment due:** machine learning applied to `records` dataframes.   
 **Code Review due:** None.   
@@ -131,11 +131,18 @@ SPRING BREAK
 ---------------
 
 **Session 11:** 4/9/2018  
-**Lecture:** statistical analysis, likelihood, Bayesian  
-**Assigned tasks:** [Link to session 12 repo]   
-**Reading due:** [statistics guide] & ...  
-**Assignment due:** 11-applied-Python-genomics    
-**Code Review due:** 10-applied-Python-statistics   
+**Lecture:** plotting in Python, plotting for the web, and plotting in general.  
+**Assigned tasks:** Notebooks 11.1-11.5   
+**Reading due:**   
++ [Chapter 4 of Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
++ [Toyplot Tutorial & User Guide](http://toyplot.readthedocs.io/en/stable/)  
++ Bokeh example app guide: 
+	[Part I](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwjin_iP4JvaAhXyqFkKHaQAD8sQFggpMAA&url=https%3A%2F%2Ftowardsdatascience.com%2Fdata-visualization-with-bokeh-in-python-part-one-getting-started-a11655a467d4&usg=AOvVaw1OfPgwhpgT4YlJw8SeNV77), 
+	[Part II](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&cad=rja&uact=8&ved=0ahUKEwjin_iP4JvaAhXyqFkKHaQAD8sQFgg1MAI&url=https%3A%2F%2Ftowardsdatascience.com%2Fdata-visualization-with-bokeh-in-python-part-ii-interactions-a4cf994e2512&usg=AOvVaw08iiC0OOTZCi3BKdu79RwA), 
+	[Part III](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&uact=8&ved=0ahUKEwjin_iP4JvaAhXyqFkKHaQAD8sQFggvMAE&url=https%3A%2F%2Ftowardsdatascience.com%2Fdata-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23&usg=AOvVaw1s-ZbUCRqVW3maXdy00-VA). 
+
+**Assignment due:** Notebook 10.7 in assignment directory of the repo.   
+**Code Review due:** Notebook 10.7  
 
 ---------------
 
