@@ -147,11 +147,11 @@ SPRING BREAK
 ---------------
 
 **Session 12:** 4/16/2018  
-**Lecture:** machine-learning  
-**Assigned tasks:** [Link to session 13 repo]    
-**Reading due:** [ML guide] & ...  
-**Assignment due:** 12-applied-Python-machine-learning   
-**Code Review due:** 11-applied-Python-statistics  
+**Lecture:** genomics and parallel programming  
+**Assigned tasks:** Notebooks 12.1-12.5  
+**Reading due:** None  
+**Assignment due:** Notebook 11.5  
+**Code Review due:** Code-review 11.5  
 
 ---------------
 
