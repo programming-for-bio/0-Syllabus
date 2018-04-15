@@ -149,7 +149,10 @@ SPRING BREAK
 **Session 12:** 4/16/2018  
 **Lecture:** genomics and parallel programming  
 **Assigned tasks:** Notebooks 12.1-12.5  
-**Reading due:** None  
+**Reading due:**   
++ [at least skim the ipyrad tutorial](http://ipyrad.readthedocs.io/features.html)  
++ [ipyrad-API-example](http://nbviewer.jupyter.org/github/dereneaton/ipyrad/blob/master/tests/cookbook-empirical-API-1-pedicularis.ipynb)  
+
 **Assignment due:** Notebook 11.5  
 **Code Review due:** Code-review 11.5  
 
