@@ -159,17 +159,21 @@ SPRING BREAK
 ---------------
 
 **Session 13:** 4/23/2018  
-**Lecture:** Project Presentations  
-**Assigned tasks:** None  
-**Reading due:** None  
-**Assignment due:** 13-applied-Python-machine-learning  
-**Code Review due:** 12-applied-Python-statistics  
+**Lecture:** Project Presentations and genomics part II  
+**Assigned tasks:** Notebooks 13.2-13.3  
+**Reading due:** 
++ [brief ipyparallel tutorial](http://nbviewer.jupyter.org/github/dereneaton/ipyrad/blob/master/tests/ipyparallel-tutorial.ipynb) 
++ [brief HPC tunneling review](http://ipyrad.readthedocs.io/HPC_Tunnel.html)
++ [See notebooks links for ipyrad analysis tools](http://ipyrad.readthedocs.io/analysis.html)  
+
+**Assignment due:** Notebooks 12.4 and 12.5  
+**Code Review due:** Code review 12.5  
 
 ---------------
 
 **Session 14:** 4/30/2018  
-**Lecture:** Project Presentations  
-**Assigned tasks:** None  
+**Lecture:** Project Presentations and genomics part III  
+**Assigned tasks:** Note  
 **Reading due:** None  
 **Assignment due:** None  
 **Code Review due:** 13-applied-Python-machine-learning  
